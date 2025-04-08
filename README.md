@@ -29,7 +29,7 @@ BeFree está alineado con los Objetivos de Desarrollo Sostenible de la ONU, trab
 - Machine Learning para personalización de intervenciones.
 - Plataforma web y móvil multiplataforma.
 - Análisis de datos en tiempo real.
-- Infraestructura segura basada en AWS y PostgreSQL.
+- Infraestructura segura basada en Firebase y Google cloud.
 
 ---
 
